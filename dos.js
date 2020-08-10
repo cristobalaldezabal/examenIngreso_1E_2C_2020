@@ -48,6 +48,7 @@ let resp = "s";
             marcasolidominimo = marca;
             flag = 1;
           }
+          break;
       }
 
 
